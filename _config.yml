@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "徐潇源 Xiaoyuan Xu"
-  avatar           : "profile.png"
+  avatar           : "xuxiaoyuan.jpg"
   bio              : "上海交通大学电子信息与电气工程学院电气工程系长聘副教授"
   location         : "上海市闵行区东川路800号<br/>上海交通大学闵行校区电信群楼1号楼347"
-  employer         :
+  employer         : "上海交通大学"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EstEBeIAAAAJ"
   email            : "xuxiaoyuan@sjtu.edu.cn"
