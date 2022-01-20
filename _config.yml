@@ -83,11 +83,11 @@ author:
   name             : "徐潇源 Xiaoyuan Xu"
   avatar           : "profile.png"
   bio              : "上海交通大学电子信息与电气工程学院电气工程系长聘副教授"
-  location         : "上海市闵行区东川路800号上海交通大学闵行校区电信群楼1号楼347"
+  location         : "上海市闵行区东川路800号<br/>上海交通大学闵行校区电信群楼1号楼347"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EstEBeIAAAAJ"
-  email            :
+  email            : "xuxiaoyuan@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
