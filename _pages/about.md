@@ -9,14 +9,18 @@ redirect_from:
 ---
 
 徐潇源 Xiaoyuan Xu：上海交通大学电子信息与电气工程学院电气工程系长聘副教授
+
+主要研究方向
+------
+电力系统不确定性分析
 	
 工作经历
 ------
-2018.10-2021.12	上海交通大学	电子信息与电气工程学院	助理教授
+2018.10-2021.12<pre>&#9<pre>上海交通大学<pre>&#9<pre>电子信息与电气工程学院<pre>&#9<pre>助理教授
 
-2017.05-2018.05	美国伊利诺伊理工大学	电气与计算机工程系/Robert W. Galvin Center for Electricity Innovation	访问学者 合作教授：M. Shahidehpour
+2017.05-2018.05<pre>&#9<pre>美国伊利诺伊理工大学<pre>&#9<pre>电气与计算机工程系/Robert W. Galvin Center for Electricity Innovation<pre>&#9<pre>访问学者<pre>&#9<pre>合作教授：M. Shahidehpour
 
-2016.06-2018.10	上海交通大学	电子信息与电气工程学院	博士后 合作导师：关新平
+2016.06-2018.10<pre>&#9<pre>上海交通大学<pre>&#9<pre>电子信息与电气工程学院<pre>&#9<pre>博士后<pre>&#9<pre>合作导师：关新平
 
 学习经历
 ------
