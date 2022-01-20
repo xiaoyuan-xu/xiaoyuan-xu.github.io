@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "xuxiaoyuan.jpg"
   bio              : "上海交通大学电子信息与电气工程学院电气工程系长聘副教授"
   location         : "上海市闵行区东川路800号<br/>上海交通大学闵行校区电信群楼1号楼347"
-  employer         : "上海交通大学"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=EstEBeIAAAAJ"
   email            : "xuxiaoyuan@sjtu.edu.cn"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaoyuan-xu"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
