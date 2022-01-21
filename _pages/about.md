@@ -10,15 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-**徐潇源博士（Dr. Xiaoyuan Xu）：上海交通大学电子信息与电气工程学院电气工程系长聘副教授**[学校官网个人主页](https://eei.sjtu.edu.cn/faculty-detail.php?id=91)
+**徐潇源博士（Dr. Xiaoyuan Xu）：上海交通大学电子信息与电气工程学院电气工程系长聘副教授**[[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=91)
 
 主要研究方向
 ------
 * 电力系统不确定性分析
   * 新能源发电建模、感知与预测
   * 高比例新能源电力系统分析与计算
-  * 高比例新能源电力系统优化运行
-    * 随机/鲁棒/分布鲁棒/数据驱动优化
+  * 高比例新能源电力系统优化运行：随机/鲁棒/分布鲁棒/数据驱动优化
 * 配电网-交通网的耦合与协调优化
   * 大规模电动汽车灵活调度
   * 交通系统建模与分析
@@ -27,9 +26,9 @@ redirect_from:
 学习经历
 ------
 * 2010.09-2016.06&nbsp;&nbsp;上海交通大学
-  * 电气工程博士&nbsp;&nbsp;导师：[严正](https://eei.sjtu.edu.cn/faculty-detail.php?id=65)
+  * 电气工程博士（导师：[严正](https://eei.sjtu.edu.cn/faculty-detail.php?id=65)）
 * 2006.09-2010.06&nbsp;&nbsp;上海交通大学
-  * 电气工程学士&nbsp;&nbsp;导师：[严正](https://eei.sjtu.edu.cn/faculty-detail.php?id=65)
+  * 电气工程学士（导师：[严正](https://eei.sjtu.edu.cn/faculty-detail.php?id=65)）
 
 工作经历
 ------
