@@ -9,14 +9,14 @@ main:
   - title: "课程教学"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "荣誉与奖励"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
+  - title: "其他"
     url: /markdown/
