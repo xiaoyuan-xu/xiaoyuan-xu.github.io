@@ -1,10 +1,7 @@
 ---
-permalink: /markdown/
+permalink: /others/
 title: "其他"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 ## 研究生
