@@ -6,17 +6,26 @@ main:
   - title: "学术报告"
     url: /talks/
 
+  - title: "科研项目"
+    url: /projects/
+
   - title: "专利"
-    url: /year-archive/
+    url: /patents/
     
-  - title: "荣誉奖励与学术兼职"
-    url: /portfolio/
+  - title: "荣誉奖励"
+    url: /prizes/
+ 
+  - title: "学术兼职"
+    url: /positions/ 
  
   - title: "课程教学"
     url: /teaching/
     
+  - title: "研究生"
+    url: /graduates/
+
+  - title: "社会活动"
+    url: /activities/
+
 #  - title: "CV"
 #    url: /cv/
-    
-  - title: "其他"
-    url: /others/

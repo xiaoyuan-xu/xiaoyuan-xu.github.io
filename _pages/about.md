@@ -1,11 +1,8 @@
 ---
 permalink: /
-title: "个人简历"
+title: "个人简介"
 excerpt: "Resume"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% include base_path %}
@@ -42,25 +39,25 @@ redirect_from:
 
 * 2016.06-2018.10&nbsp;&nbsp;上海交通大学
   * 电子信息与电气工程学院电气工程系
-  * 博士后&nbsp;合作导师：[关新平](https://automation.sjtu.edu.cn/Xin-Ping)
+  * 博士后&nbsp;&nbsp;合作导师：[关新平](https://automation.sjtu.edu.cn/Xin-Ping)
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ------
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+[课程教学](/teaching)
 ------
-  <ul>{% for post in site.teaching %}
+  <ol>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
 Service and leadership
 ------
