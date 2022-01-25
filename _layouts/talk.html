@@ -31,9 +31,18 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>时间:</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>时间:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y/%m" }}</time></p>
+		  <p><b>类别：</b>{{ page.type }} </p>
+		  {% if page.type == 'Conference' %}
+		    <p><b>会议名称：</b>{{ page.venue }} </p> 
+		  {% elsif page.type == '讲座' %}
+		    <p><b>单位名称：</b>{{ page.venue }} </p>
+		  {% else %}
+			<p><b>场所：</b>{{ page.venue }} </p>
+		  {% endif %}
+		  <p><b>地点：</b>{{ page.location }}</p>
         {% endif %}
         {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }},  {{page.location}} {% endif %}
 

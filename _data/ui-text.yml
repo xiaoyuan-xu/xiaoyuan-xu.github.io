@@ -282,7 +282,7 @@ zh: &DEFAULT_ZH
   meta_label                 :
   tags_label                 : "Tags:"
   categories_label           : "Categories:"
-  date_label                 : "Published:"
+  date_label                 : "授权日期:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
   more_label                 : "Learn More"
