@@ -20,7 +20,7 @@
         {% elsif post.collection == 'publications' %}
           <p>{{ post.paper_author }}. "<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>", <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}. {{ post.remark }} </p>
         {% elsif post.date %}
-          <p> {{ post.owner }}. <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }}, {{ post.number }}. </p>
+          <p> {{ post.owner }}. <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. {{ post.date | default: "1900-01-01" | date: "%Y/%m/%d" }}, {{ post.number }}. </p>
         {% endif %}
     </li>
  </article>
