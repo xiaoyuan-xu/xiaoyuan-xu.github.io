@@ -37,19 +37,22 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, {{ page.period }}, <i>{{ page.venue }}</i>, {{ page.semester }}.</p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+		  <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>发表时间:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y/%m/%d" }}</time></p>
+          <p><b>发表于</b> <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} {{ page.remark }}</p>
+		  <p><b>作者：</b>{{ page.paper_author }} </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%Y-%m-%d" }}</time></p>
           <p><b>完成人：</b>{{ page.owner }} </p>  <p><b>完成单位：</b>{{ page.organization }} </p>
 		  <p><b>授权公布号：</b>{{ page.number }} <a href={{ page.patent_link }}>[查看专利]</a></p>
 		{% endif %}
         
-             
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
-        {% endif %}
+        {% if page.paperurl %}
+		  <p><b>下载：</b><a href=" {{ page.paperurl }} ">链接</a></p>
+		{% endif %}
+		
+		{% if page.citation %}
+		  <p><b>推荐引用：</b>{{ page.citation }}</p>
+		{% endif %}
     
         </header>
       {% endunless %}

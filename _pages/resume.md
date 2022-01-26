@@ -45,9 +45,87 @@ author_profile: true
 
 学术论著 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/publications)
 ------
-  <ol>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+
+  <blockquote> <p>专著</p> </blockquote>
+  <ol>
+  {% for post in site.publications reversed %}
+  {% if post.type == "book" %}
+    {% if post.corresponding %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  
+  {% for post in site.publications reversed %}
+  {% if post.type == "book" %}
+    {% if post.corresponding %}
+	{% else %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  </ol>
+
+  <blockquote> <p>英文期刊论文</p> </blockquote>
+  <ol>
+  {% for post in site.publications reversed %}
+  {% if post.type == "journal-en" %}
+    {% if post.corresponding %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  
+  {% for post in site.publications reversed %}
+  {% if post.type == "journal-en" %}
+    {% if post.corresponding %}
+	{% else %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  </ol>
+
+  <blockquote> <p>中文期刊论文</p> </blockquote>
+  <ol>
+  {% for post in site.publications reversed %}
+  {% if post.type == "journal-zh" %}
+    {% if post.corresponding %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  
+  {% for post in site.publications reversed %}
+  {% if post.type == "journal-zh" %}
+    {% if post.corresponding %}
+	{% else %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  </ol>
+<!--
+  <blockquote> <p>中文期刊论文</p> </blockquote>
+  <ol>
+  {% for post in site.publications reversed %}
+  {% if post.type == "conference-en" %}
+    {% if post.corresponding %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  
+  {% for post in site.publications reversed %}
+  {% if post.type == "conference-en" %}
+    {% if post.corresponding %}
+	{% else %}
+	  {% include archive-single-cv.html %}
+	{% endif %}
+  {% endif %}
+  {% endfor %}
+  </ol>
+-->
   
 学术报告 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/talks)
 ------
@@ -75,9 +153,9 @@ author_profile: true
   
 课程教学 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/teaching)
 ------
-  <ol>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ol>
+  {% endfor %}</ul>
 
 研究生 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/graduates)
 ------
