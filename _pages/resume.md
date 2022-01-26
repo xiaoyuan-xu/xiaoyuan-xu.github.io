@@ -26,22 +26,22 @@ author_profile: true
 
 工作经历
 ------
-* 2022.01-现在&ensp;&ensp;&ensp;&nbsp;&nbsp;**长聘教轨副教授**
+* 2022/01-现在&ensp;&ensp;&ensp;&nbsp;&nbsp;**长聘教轨副教授**
   * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院电气工程系
   
-* 2018.10-2021.12&nbsp;&nbsp;**助理教授**
+* 2018/10-2021/12&nbsp;&nbsp;**助理教授**
   * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院电气工程系
 
-* 2017.05-2018.05&nbsp;&nbsp;**访问学者**
+* 2017/05-2018/05&nbsp;&nbsp;**访问学者**
   * 美国伊利诺伊理工大学&nbsp;&nbsp;Robert W. Galvin Center for Electricity Innovation
 
-* 2016.06-2018.10&nbsp;&nbsp;**博士后**
+* 2016/06-2018/10&nbsp;&nbsp;**博士后**
   * 上海交通大学&nbsp;&nbsp;电子信息与电气工程学院
 
 学习经历
 ------
-* 2010.09-2016.06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**博士**
-* 2006.09-2010.06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**学士**
+* 2010/09-2016/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**博士**
+* 2006/09-2010/06&nbsp;&nbsp;上海交通大学&nbsp;&nbsp;电气工程&nbsp;&nbsp;**学士**
 
 学术论著 [<img src="images/skip_to.jpg" width="20" alt="详细情况" />](/publications)
 ------
