@@ -5,7 +5,7 @@ type: "journal-zh"
 permalink: /publication/2021-10-14-journal-zh-基于深度强化学习的光储充电站储能系统优化运行
 date: 2021-10-14
 venue: "电力自动化设备"
-paper_author: "陈亭轩,  <b>徐潇源*</b>, 严正, 朱彦名"
+paper_author: "陈亭轩, <b>徐潇源*</b>, 严正, 朱彦名"
 corresponding: True
 remark: ""
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DLZS202110013&uniplatform=NZKPT&v=VaGYngl9_h9yB79NTYG40Th2KHjDFwVM2oQQ915rNfjx9XTjW-QYTtdjp-uvixYE"
