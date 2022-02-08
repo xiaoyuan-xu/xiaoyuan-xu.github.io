@@ -7,7 +7,7 @@ date: 2021-12-03
 venue: "IEEE Transactions on Transportation Electrification"
 paper_author: "Zhuoxin Lu, <b>Xiaoyuan Xu*</b>, Zheng Yan, Mohammad Shahidehpour"
 corresponding: True
-remark: "(Early access,SCI)"
+remark: "(Early access, SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9634033"
 citation: 'Z. Lu, X. Xu, Z. Yan and M. Shahidehpour, "Multi-Stage Robust Optimization of Routing and Scheduling of Mobile Energy Storage in Coupled Transportation and Power Distribution Networks," <i>IEEE Transactions on Transportation Electrification</i>, 2021. (Early access)'
 ---

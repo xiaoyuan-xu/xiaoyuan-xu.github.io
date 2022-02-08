@@ -7,7 +7,7 @@ date: 2021-12-10
 venue: "IET Energy Conversion and Economics"
 paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
-remark: ""
+remark: "(	EI)"
 paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12049"
 citation: 'Y. Zhu, X. Xu and Z. Yan, "Hybrid Clustering-based Bad Data Detection of PMU Measurements," <i>IET Energy Conversion and Economics</i>, vol. 2, no. 4, pp. 235-247, 2021.'
 ---
