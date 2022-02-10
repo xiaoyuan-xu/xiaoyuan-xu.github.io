@@ -6,7 +6,7 @@ permalink: /publication/2019-01-24-journal-en-Data-driven risk-averse two-stage 
 date: 2019-01-24
 venue: "IEEE Transactions on Sustainable Energy"
 paper_author: "<b>Xiaoyuan Xu</b>, Zheng Yan, Mohammad Shahidehpour*, Zhiyi Li, Mingyu Yan, Xiangrui Kong"
-corresponding: False
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8625475"
 citation: 'X. Xu, Z. Yan, M. Shahidehpour, Z. Li, M. Yan and X. Kong, "Data-driven risk-averse two-stage optimal stochastic scheduling of energy and reserve with correlated wind power," <i>IEEE Transactions on Sustainable Energy</i>, vol. 11, no. 1, pp. 436-447, 2020.'

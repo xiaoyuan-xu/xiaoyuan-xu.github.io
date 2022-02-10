@@ -6,7 +6,7 @@ permalink: /publication/2014-12-18-journal-en-Estimating wind speed probability 
 date: 2014-12-18
 venue: "Electric Power Systems Research"
 paper_author: "<b>Xiaoyuan Xu</b>, Zheng Yan*, Shaolun Xu"
-corresponding: False
+corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/abs/pii/S0378779614004374"
 citation: 'X. Xu, Z. Yan and S. Xu, "Estimating wind speed probability distribution by diffusion-based kernel density method," <i>Electric Power Systems Research</i>, vol. 121, pp. 28-37, 2015.'

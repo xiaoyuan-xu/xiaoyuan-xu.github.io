@@ -1,5 +1,5 @@
 ---
-title: "基于Sobol'法的孤岛微电网潮流全局灵敏度分析"
+title: "基于Sobol法的孤岛微电网潮流全局灵敏度分析"
 collection: publications
 type: "journal-zh"
 permalink: /publication/2018-05-11-journal-zh-基于Sobol'法的孤岛微电网潮流全局灵敏度分析
