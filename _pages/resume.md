@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "个人简历"
-excerpt: "Resume"
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
