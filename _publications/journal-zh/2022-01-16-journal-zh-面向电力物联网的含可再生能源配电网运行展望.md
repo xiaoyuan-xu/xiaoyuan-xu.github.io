@@ -2,14 +2,14 @@
 title: "面向电力物联网的含可再生能源配电网运行展望"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-01-01-journal-zh-面向电力物联网的含可再生能源配电网运行展望
-date: 2022-01-01
+permalink: /publication/2022-01-16-journal-zh-面向电力物联网的含可再生能源配电网运行展望
+date: 2022-01-16
 venue: "电力系统保护与控制"
 paper_author: "朱彦名, <b>徐潇源*</b>, 严正, 陆建宇"
 corresponding: True
-remark: "(已录用)"
-paperurl: ""
-citation: '朱彦名, 徐潇源, 严正, 陆建宇. 面向电力物联网的含可再生能源配电网运行展望[J]. 电力系统保护与控制, 2022.'
+remark: ""
+paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JDQW202202020&uniplatform=NZKPT&v=qj9s9BM03maXWHkB6fdRGcZmDkf1DukmGBQnIhZ3eT5nbudeXcmIXaQWOGPmINXp"
+citation: '朱彦名, 徐潇源, 严正, 陆建宇. 面向电力物联网的含可再生能源配电网运行展望[J]. 电力系统保护与控制, 2022, 50(02): 176-187.'
 ---
 
 摘要：
