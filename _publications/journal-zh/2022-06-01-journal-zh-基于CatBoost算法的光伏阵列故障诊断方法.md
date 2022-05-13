@@ -2,8 +2,8 @@
 title: "基于CatBoost算法的光伏阵列故障诊断方法"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-01-01-journal-zh-基于CatBoost算法的光伏阵列故障诊断方法
-date: 2022
+permalink: /publication/2022-06-01-journal-zh-基于CatBoost算法的光伏阵列故障诊断方法
+date: 2022-06-01
 venue: "电力系统自动化"
 paper_author: "顾崇寅, <b>徐潇源*</b>, 王梦圆, 严正"
 corresponding: True
