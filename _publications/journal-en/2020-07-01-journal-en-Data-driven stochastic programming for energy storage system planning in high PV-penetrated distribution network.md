@@ -9,7 +9,7 @@ paper_author: "Zhuoxin Lu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061520302581"
-citation: 'Z. Lu, X. Xu and Z. Yan, "Data-driven stochastic programming for energy storage system planning in high PV-penetrated distribution network," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 123, no. 106326, pp. 1-9, 2020.'
+citation: 'Z. Lu, X. Xu and Z. Yan, "Data-driven stochastic programming for energy storage system planning in high PV-penetrated distribution network," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 123, pp. 1-9, 2020.'
 ---
 
 Abstract:
