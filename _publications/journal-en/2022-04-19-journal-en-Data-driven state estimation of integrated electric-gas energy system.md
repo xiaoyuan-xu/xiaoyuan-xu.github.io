@@ -7,7 +7,7 @@ date: 2022-04-19
 venue: "Energy"
 paper_author: "Puzhe Lan, Dong Han*, <b>Xiaoyuan Xu</b>, Zheng Yan, Xijun Ren, Shiwei Xia"
 corresponding: False
-remark: "(SCI )"
+remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0360544222009525"
 citation: 'P. Lan, D. Han, X. Xu, Z. Yan, X. Ren and S. Xia, "Data-driven state estimation of integrated electric-gas energy system," <i>Energy</i>, vol. 252, 2022, art. no. 124049.'
 ---
