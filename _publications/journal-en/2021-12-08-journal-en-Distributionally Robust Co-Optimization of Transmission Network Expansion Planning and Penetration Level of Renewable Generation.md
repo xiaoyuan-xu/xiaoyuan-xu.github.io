@@ -7,9 +7,9 @@ date: 2021-12-08
 venue: "Journal of Modern Power Systems and Clean Energy"
 paper_author: "Jingwei Hu, <b>Xiaoyuan Xu*</b>, Hongyan Ma, Zheng Yan"
 corresponding: True
-remark: "(Early access, SCI)"
+remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9642710"
-citation: 'J. Hu, X. Xu, H. Ma and Z. Yan, "Distributionally Robust Co-Optimization of Transmission Network Expansion Planning and Penetration Level of Renewable Generation," <i>Journal of Modern Power Systems and Clean Energy</i>, 2021. (Early access)'
+citation: 'J. Hu, X. Xu, H. Ma and Z. Yan, "Distributionally Robust Co-Optimization of Transmission Network Expansion Planning and Penetration Level of Renewable Generation," <i>Journal of Modern Power Systems and Clean Energy</i>, vol. 10, no. 3, pp. 577-587, 2022.'
 ---
 
 Abstract:
