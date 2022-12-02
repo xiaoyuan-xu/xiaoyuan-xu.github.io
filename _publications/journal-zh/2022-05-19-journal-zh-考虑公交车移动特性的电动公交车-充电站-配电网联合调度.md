@@ -8,7 +8,7 @@ venue: "电力系统自动化"
 paper_author: "徐冉, <b>徐潇源*</b>, 王晗, 严正"
 corresponding: True
 remark: ""
-paperurl: ""
+paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20220518000&uniplatform=NZKPT&v=JjENo4CVsXBynF1N99xNPt7x0fkqXs88rpfljz7xAAZ6qRcy5NkLFOQfdyq8hXyG"
 citation: '徐冉, 徐潇源, 王晗, 严正. 考虑公交车移动特性的电动公交车-充电站-配电网联合调度[J]. 电力系统自动化, 2022: 1-12.'
 ---
 
