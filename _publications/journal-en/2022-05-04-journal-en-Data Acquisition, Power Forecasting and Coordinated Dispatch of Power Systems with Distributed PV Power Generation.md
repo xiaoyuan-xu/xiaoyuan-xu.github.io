@@ -2,8 +2,8 @@
 title: "Data Acquisition, Power Forecasting and Coordinated Dispatch of Power Systems with Distributed PV Power Generation"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-03-27-journal-en-Data Acquisition, Power Forecasting and Coordinated Dispatch of Power Systems with Distributed PV Power Generation
-date: 2022-03-27
+permalink: /publication/2022-05-04-journal-en-Data Acquisition, Power Forecasting and Coordinated Dispatch of Power Systems with Distributed PV Power Generation
+date: 2022-05-04
 venue: "The Electricity Journal"
 paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
