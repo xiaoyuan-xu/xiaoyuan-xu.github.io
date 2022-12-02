@@ -7,9 +7,9 @@ date: 2022-05-10
 venue: "IEEE Transactions on Sustainable Energy"
 paper_author: "Nan Zhou, <b>Xiaoyuan Xu*</b>, Zheng Yan, Mohammad Shahidehpour"
 corresponding: True
-remark: "(Early access, SCI)"
+remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9772255"
-citation: 'N. Zhou, X. Xu, Z. Yan and M. Shahidehpour, "Spatio-Temporal Probabilistic Forecasting of Photovoltaic Power Based on Monotone Broad Learning System and Copula Theory," <i>IEEE Transactions on Sustainable Energy</i>, 2022. (Early access)'
+citation: 'N. Zhou, X. Xu, Z. Yan and M. Shahidehpour, "Spatio-Temporal Probabilistic Forecasting of Photovoltaic Power Based on Monotone Broad Learning System and Copula Theory," <i>IEEE Transactions on Sustainable Energy</i>, vol. 13, no. 4, pp. 1874-1885, 2022.'
 ---
 
 Abstract:
