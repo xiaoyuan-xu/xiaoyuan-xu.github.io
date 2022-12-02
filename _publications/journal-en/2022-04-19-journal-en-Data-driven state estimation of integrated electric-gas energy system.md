@@ -2,8 +2,8 @@
 title: "Data-driven state estimation of integrated electric-gas energy system"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-08-01-journal-en-Data-driven state estimation of integrated electric-gas energy system
-date: 2022-08-01
+permalink: /publication/2022-04-19-journal-en-Data-driven state estimation of integrated electric-gas energy system
+date: 2022-04-19
 venue: "Energy"
 paper_author: "Puzhe Lan, Dong Han*, <b>Xiaoyuan Xu</b>, Zheng Yan, Xijun Ren, Shiwei Xia"
 corresponding: False
