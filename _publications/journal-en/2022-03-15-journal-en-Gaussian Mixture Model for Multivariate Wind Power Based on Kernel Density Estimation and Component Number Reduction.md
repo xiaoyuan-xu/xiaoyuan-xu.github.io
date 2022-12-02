@@ -7,9 +7,9 @@ date: 2022-03-15
 venue: "IEEE Transactions on Sustainable Energy"
 paper_author: "Yuanhai Gao, <b>Xiaoyuan Xu*</b>, Zheng Yan, Mohammad Shahidehpour"
 corresponding: True
-remark: "(Early access, SCI)"
+remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/9735366"
-citation: 'Y. Gao, X. Xu, Z. Yan and M. Shahidehpour, "Gaussian Mixture Model for Multivariate Wind Power Based on Kernel Density Estimation and Component Number Reduction," <i>IEEE Transactions on Sustainable Energy</i>, 2022. (Early access).'
+citation: 'Y. Gao, X. Xu, Z. Yan and M. Shahidehpour, "Gaussian Mixture Model for Multivariate Wind Power Based on Kernel Density Estimation and Component Number Reduction," <i>IEEE Transactions on Sustainable Energy</i>, vol. 13, no. 3, pp. 1853-1856, 2022.'
 ---
 
 Abstract:
