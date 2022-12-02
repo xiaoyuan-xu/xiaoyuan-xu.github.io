@@ -8,7 +8,7 @@ venue: "中国电机工程学报"
 paper_author: "高元海, <b>徐潇源*</b>, 严正"
 corresponding: True
 remark: ""
-paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGDC20220407000&uniplatform=NZKPT&v=66MZTQRHAapb2ULBLndrkHem8lA-p3ws7AQxZ2Lgo6j0c3oiqU6kFascEs_BbFzx"
+paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=ZGDC20220407000&uniplatform=NZKPT&v=66MZTQRHAapb2ULBLndrkHem8lA-p3ws7AQxZ2Lgo6iTrPeI8aEMkYwyWXVkdpn4"
 citation: '高元海, 徐潇源, 严正. 基于多维高斯混合模型的电力系统不确定性建模方法[J]. 中国电机工程学报, 2022: 1-11.'
 ---
 
