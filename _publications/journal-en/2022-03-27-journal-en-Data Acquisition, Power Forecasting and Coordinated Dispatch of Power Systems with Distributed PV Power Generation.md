@@ -9,7 +9,7 @@ paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: ""
 paperurl: "https://www.sciencedirect.com/science/article/pii/S1040619022000598"
-citation: 'Y. Zhu, X. Xu and Z. Yan, "Data Acquisition, Power Forecasting and Coordinated Dispatch of Power Systems with Distributed PV Power Generation," <i>The Electricity Journal</i>, vol. 35, no. 5, 2022.'
+citation: 'Y. Zhu, X. Xu and Z. Yan, "Data Acquisition, Power Forecasting and Coordinated Dispatch of Power Systems with Distributed PV Power Generation," <i>The Electricity Journal</i>, vol. 35, no. 5, 2022, art. no. 107133.'
 ---
 
 Abstract:

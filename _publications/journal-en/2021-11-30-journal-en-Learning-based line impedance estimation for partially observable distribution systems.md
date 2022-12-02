@@ -9,7 +9,7 @@ paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S0142061521010218"
-citation: 'Y. Zhu, X. Xu, and Z. Yan. "Learning-based line impedance estimation for partially observable distribution systems," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 137, 2022.'
+citation: 'Y. Zhu, X. Xu, and Z. Yan. "Learning-based line impedance estimation for partially observable distribution systems," <i>International Journal of Electrical Power & Energy Systems</i>, vol. 137, 2022, art. no. 107803.'
 ---
 
 Abstract:
