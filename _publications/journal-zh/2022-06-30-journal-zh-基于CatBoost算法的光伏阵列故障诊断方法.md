@@ -8,8 +8,8 @@ venue: "电力系统自动化"
 paper_author: "顾崇寅, <b>徐潇源*</b>, 王梦圆, 严正"
 corresponding: True
 remark: ""
-paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=DLXT20220629001&uniplatform=NZKPT&v=JjENo4CVsXB6D6vr9ulPK6sNrnK7ffQMlcgeDixVokn8pgEB2BWB1rebNaz4OVQu"
-citation: '顾崇寅, 徐潇源, 王梦圆, 严正. 基于CatBoost算法的光伏阵列故障诊断方法[J]. 电力系统自动化, 2022: 1-13.'
+paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UBliRfKRYir8tBEp4rBjouAYxzuOuX2Ik7yDhi_--MSR&uniplatform=NZKPT"
+citation: '顾崇寅, 徐潇源, 王梦圆, 严正. 基于CatBoost算法的光伏阵列故障诊断方法[J]. 电力系统自动化, 2023, 47(02): 105-114.'
 ---
 
 摘要：

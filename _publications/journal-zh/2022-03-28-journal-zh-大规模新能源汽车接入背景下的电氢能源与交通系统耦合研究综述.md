@@ -8,7 +8,7 @@ venue: "上海交通大学学报"
 paper_author: "李佳琪, <b>徐潇源*</b>, 严正"
 corresponding: True
 remark: ""
-paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=SHJT202203001&uniplatform=NZKPT&v=wW2MgHscxw0KTZ9z8yzVT-r5JXSPv1IMbO40th545g5R_49GHPmG4XdQm-OoY3jV"
+paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_Xa8Df7i-o_MR3cet5lfGLGjdV5G_4BaJMG6Irwf5r5ec&uniplatform=NZKPT"
 citation: '李佳琪, 徐潇源, 严正. 大规模新能源汽车接入背景下的电氢能源与交通系统耦合研究综述[J]. 上海交通大学学报, 2022, 56(03): 253-266.'
 ---
 
