@@ -9,7 +9,7 @@ paper_author: "<b>Xiaoyuan Xu</b>, Yunhong Li, Zheng Yan*, Hongyan Ma"
 corresponding: False
 remark: "(Early Access, SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9916063"
-citation: 'X. Xu, Y. Li, Z. Yan, H. Ma, "Hierarchical Central-Local Inverter-based Voltage Control in Distribution Networks Considering Stochastic PV Power Admissible Range," <i>IEEE Transactions on Smart Grid</i>, 2022. (Early Access)'
+citation: 'X. Xu, Y. Li, Z. Yan and H. Ma, "Hierarchical Central-Local Inverter-based Voltage Control in Distribution Networks Considering Stochastic PV Power Admissible Range," <i>IEEE Transactions on Smart Grid</i>, 2022. (Early Access)'
 ---
 
 Abstract:
