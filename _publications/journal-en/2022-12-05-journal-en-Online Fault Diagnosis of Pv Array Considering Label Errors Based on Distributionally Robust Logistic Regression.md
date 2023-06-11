@@ -2,14 +2,14 @@
 title: "Online Fault Diagnosis of Pv Array Considering Label Errors Based on Distributionally Robust Logistic Regression"
 collection: publications
 type: "journal-en"
-permalink: /publication/2022-05-13-journal-en-Online Fault Diagnosis of Pv Array Considering Label Errors Based on Distributionally Robust Logistic Regression
-date: 2022-05-13
+permalink: /publication/2022-12-05-journal-en-Online Fault Diagnosis of Pv Array Considering Label Errors Based on Distributionally Robust Logistic Regression
+date: 2022-12-05
 venue: "Renewable Energy"
 paper_author: "Mengyuan Wang, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: "(SCI)"
-paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4108878"
-citation: 'M. Wang, X. Xu and Z. Yan, "Online Fault Diagnosis of Pv Array Considering Label Errors Based on Distributionally Robust Logistic Regression," <i>Renewable Energy</i>, 2022. (Accept)'
+paperurl: "https://www.sciencedirect.com/science/article/pii/S0960148122017840"
+citation: 'M. Wang, X. Xu and Z. Yan, "Online Fault Diagnosis of Pv Array Considering Label Errors Based on Distributionally Robust Logistic Regression," <i>Renewable Energy</i>, vol. 203, pp. 68-80, 2023.'
 ---
 
 Abstract:
