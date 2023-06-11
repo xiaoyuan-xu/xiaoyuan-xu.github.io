@@ -7,9 +7,9 @@ date: 2022-08-23
 venue: "IEEE Transactions on Transportation Electrification"
 paper_author: "Tingxuan Chen, <b>Xiaoyuan Xu*</b>, Han Wang, Zheng Yan"
 corresponding: True
-remark: "(Early Access, SCI)"
+remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/9864603"
-citation: 'T. Chen, X. Xu, H. Wang and Z. Yan, "Routing and Scheduling of Mobile Energy Storage System for Electricity Arbitrage Based on Two-layer Deep Reinforcement Learning," <i>IEEE Transactions on Transportation Electrification</i>, 2022. (Early Access)'
+citation: 'T. Chen, X. Xu, H. Wang and Z. Yan, "Routing and Scheduling of Mobile Energy Storage System for Electricity Arbitrage Based on Two-layer Deep Reinforcement Learning," <i>IEEE Transactions on Transportation Electrification</i>, vol. 9, no. 1, pp. 1087-1102, March 2023.'
 ---
 
 Abstract:
