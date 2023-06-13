@@ -2,8 +2,8 @@
 title: "考虑柔性负荷的多目标安全约束机组组合优化模型及求解"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2017-04-21-journal-zh-考虑柔性负荷的多目标安全约束机组组合优化模型及求解
-date: 2017-04-21
+permalink: /publication/2017-06-01-journal-zh-考虑柔性负荷的多目标安全约束机组组合优化模型及求解
+date: 2017-06-01
 venue: "电网技术"
 paper_author: "王晗, <b>徐潇源*</b>, 严正"
 corresponding: True

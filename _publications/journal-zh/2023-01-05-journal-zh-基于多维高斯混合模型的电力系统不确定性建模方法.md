@@ -2,8 +2,8 @@
 title: "基于多维高斯混合模型的电力系统不确定性建模方法"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-04-11-journal-zh-基于多维高斯混合模型的电力系统不确定性建模方法
-date: 2022-04-11
+permalink: /publication/2023-01-05-journal-zh-基于多维高斯混合模型的电力系统不确定性建模方法
+date: 2023-01-05
 venue: "中国电机工程学报"
 paper_author: "高元海, <b>徐潇源*</b>, 严正"
 corresponding: True

@@ -2,8 +2,8 @@
 title: "采用隐式Cholesky分解的大规模病态潮流计算"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2015-12-30-journal-zh-采用隐式Cholesky分解的大规模病态潮流计算
-date: 2015-12-30
+permalink: /publication/2016-04-01-journal-zh-采用隐式Cholesky分解的大规模病态潮流计算
+date: 2016-04-01
 venue: "电网技术"
 paper_author: "张道天*, 严正, <b>徐潇源</b>, 赵文恺, 曹路, 李建华"
 corresponding: False

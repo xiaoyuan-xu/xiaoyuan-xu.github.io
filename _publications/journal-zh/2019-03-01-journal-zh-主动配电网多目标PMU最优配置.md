@@ -2,8 +2,8 @@
 title: "主动配电网多目标PMU最优配置"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2018-09-15-journal-zh-主动配电网多目标PMU最优配置
-date: 2018-09-15
+permalink: /publication/2019-03-01-journal-zh-主动配电网多目标PMU最优配置
+date: 2019-03-01
 venue: "电网技术"
 paper_author: "王澍, 严正*, 孔祥瑞, 郭瑞鹏, <b>徐潇源</b>"
 corresponding: False

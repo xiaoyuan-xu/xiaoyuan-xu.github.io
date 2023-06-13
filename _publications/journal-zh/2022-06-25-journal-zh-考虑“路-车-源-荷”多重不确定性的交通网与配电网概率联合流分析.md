@@ -2,8 +2,8 @@
 title: "考虑“路-车-源-荷”多重不确定性的交通网与配电网概率联合流分析"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-05-24-journal-zh-考虑“路-车-源-荷”多重不确定性的交通网与配电网概率联合流分析
-date: 2022-05-24
+permalink: /publication/2022-06-25-journal-zh-考虑“路-车-源-荷”多重不确定性的交通网与配电网概率联合流分析
+date: 2022-06-25
 venue: "电力系统自动化"
 paper_author: "方晓涛, 严正, 王晗, <b>徐潇源</b>, 陈玥, 许少伦"
 corresponding: False

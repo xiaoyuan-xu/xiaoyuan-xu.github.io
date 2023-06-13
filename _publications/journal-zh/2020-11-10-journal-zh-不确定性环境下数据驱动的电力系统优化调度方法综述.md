@@ -2,8 +2,8 @@
 title: "不确定性环境下数据驱动的电力系统优化调度方法综述"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2020-07-20-journal-zh-不确定性环境下数据驱动的电力系统优化调度方法综述
-date: 2020-07-20
+permalink: /publication/2020-11-10-journal-zh-不确定性环境下数据驱动的电力系统优化调度方法综述
+date: 2020-11-10
 venue: "电力系统自动化"
 paper_author: "鲁卓欣, <b>徐潇源*</b>, 严正, 吴江, 桑妲, 王澍"
 corresponding: True

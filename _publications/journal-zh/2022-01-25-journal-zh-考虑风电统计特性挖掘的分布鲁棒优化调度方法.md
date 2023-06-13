@@ -2,8 +2,8 @@
 title: "考虑风电统计特性挖掘的分布鲁棒优化调度方法"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2021-10-09-journal-zh-考虑风电统计特性挖掘的分布鲁棒优化调度方法
-date: 2021-10-09
+permalink: /publication/2022-01-25-journal-zh-考虑风电统计特性挖掘的分布鲁棒优化调度方法
+date: 2022-01-25
 venue: "电力系统自动化"
 paper_author: "徐超然, <b>徐潇源*</b>, 严正, 李恒杰"
 corresponding: True

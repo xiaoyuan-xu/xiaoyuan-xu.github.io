@@ -2,8 +2,8 @@
 title: "基于生成对抗网络的独立微电网光-储容量分布鲁棒优化配置"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-10-25-journal-zh-基于生成对抗网络的独立微电网光-储容量分布鲁棒优化配置
-date: 2022-10-25
+permalink: /publication/2023-04-10-journal-zh-基于生成对抗网络的独立微电网光-储容量分布鲁棒优化配置
+date: 2023-04-10
 venue: "电力系统自动化"
 paper_author: "李运鸿, <b>徐潇源*</b>, 严正"
 corresponding: True

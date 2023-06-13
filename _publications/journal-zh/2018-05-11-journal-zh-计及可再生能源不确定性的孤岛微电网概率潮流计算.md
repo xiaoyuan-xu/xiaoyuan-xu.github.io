@@ -2,8 +2,8 @@
 title: "计及可再生能源不确定性的孤岛微电网概率潮流计算"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2018-05-11-journal-zh-计及可再生能源不确定性的孤岛微电网概率潮流计算
-date: 2018-05-11
+permalink: /publication/2018-08-10-journal-zh-计及可再生能源不确定性的孤岛微电网概率潮流计算
+date: 2018-08-10
 venue: "电力系统自动化"
 paper_author: "王晗, 严正, <b>徐潇源*</b>, 李铁, 唐俊刺, 周纯莹"
 corresponding: True

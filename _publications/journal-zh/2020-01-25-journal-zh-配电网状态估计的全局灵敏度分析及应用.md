@@ -2,8 +2,8 @@
 title: "配电网状态估计的全局灵敏度分析及应用"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2019-11-15-journal-zh-配电网状态估计的全局灵敏度分析及应用
-date: 2019-11-15
+permalink: /publication/2020-01-25-journal-zh-配电网状态估计的全局灵敏度分析及应用
+date: 2020-01-25
 venue: "电力系统自动化"
 paper_author: "孟雨田, 严正, <b>徐潇源*</b>, 方陈"
 corresponding: True

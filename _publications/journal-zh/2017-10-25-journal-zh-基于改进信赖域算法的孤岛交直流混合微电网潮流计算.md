@@ -2,8 +2,8 @@
 title: "基于改进信赖域算法的孤岛交直流混合微电网潮流计算"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2017-08-22-journal-zh-基于改进信赖域算法的孤岛交直流混合微电网潮流计算
-date: 2017-08-22
+permalink: /publication/2017-10-25-journal-zh-基于改进信赖域算法的孤岛交直流混合微电网潮流计算
+date: 2017-10-25
 venue: "电力系统自动化"
 paper_author: "王晗, <b>徐潇源*</b>, 严正"
 corresponding: True

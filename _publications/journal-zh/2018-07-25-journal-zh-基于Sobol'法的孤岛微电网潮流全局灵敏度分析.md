@@ -2,8 +2,8 @@
 title: "基于Sobol'法的孤岛微电网潮流全局灵敏度分析"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2018-05-11-journal-zh-基于Sobol'法的孤岛微电网潮流全局灵敏度分析
-date: 2018-05-11
+permalink: /publication/2018-07-25-journal-zh-基于Sobol'法的孤岛微电网潮流全局灵敏度分析
+date: 2018-07-25
 venue: "电力系统自动化"
 paper_author: "何琨, 严正, <b>徐潇源*</b>, 王晗"
 corresponding: True

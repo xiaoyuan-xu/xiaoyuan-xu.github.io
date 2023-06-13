@@ -2,8 +2,8 @@
 title: "自适应Levenberg-Marquardt方法提高潮流计算收敛性"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2015-07-03-journal-zh-自适应Levenberg Marquardt方法提高潮流计算收敛性
-date: 2015-07-03
+permalink: /publication/2015-04-20-journal-zh-自适应Levenberg Marquardt方法提高潮流计算收敛性
+date: 2015-04-20
 venue: "中国电机工程学报"
 paper_author: "严正*, 范翔, 赵文恺, <b>徐潇源</b>, 范金燕, 王毅"
 corresponding: False

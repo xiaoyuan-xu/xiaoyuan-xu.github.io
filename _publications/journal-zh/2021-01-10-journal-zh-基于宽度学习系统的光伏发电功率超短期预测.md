@@ -2,8 +2,8 @@
 title: "基于宽度学习系统的光伏发电功率超短期预测"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2020-09-25-journal-zh-基于宽度学习系统的光伏发电功率超短期预测
-date: 2020-09-25
+permalink: /publication/2021-01-10-journal-zh-基于宽度学习系统的光伏发电功率超短期预测
+date: 2021-01-10
 venue: "电力系统自动化"
 paper_author: "周楠, <b>徐潇源*</b>, 严正, 陆建宇, 李亚平"
 corresponding: True

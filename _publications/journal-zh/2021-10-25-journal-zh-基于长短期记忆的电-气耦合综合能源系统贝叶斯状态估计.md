@@ -2,8 +2,8 @@
 title: "基于长短期记忆的电-气耦合综合能源系统贝叶斯状态估计"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2021-04-06-journal-zh-基于长短期记忆的电-气耦合综合能源系统贝叶斯状态估计
-date: 2021-04-06
+permalink: /publication/2021-10-25-journal-zh-基于长短期记忆的电-气耦合综合能源系统贝叶斯状态估计
+date: 2021-10-25
 venue: "电力系统自动化"
 paper_author: "兰浦哲, 韩冬*, <b>徐潇源</b>, 严正, 刘旭涛"
 corresponding: False
