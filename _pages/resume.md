@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**徐潇源（Xiaoyuan Xu）：上海交通大学 电子信息与电气工程学院 电气工程系 长聘教轨副教授** [[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=91)
+**徐潇源（Xiaoyuan Xu）：上海交通大学 电子信息与电气工程学院 电气工程系 副教授** [[学校官网个人主页]](https://eei.sjtu.edu.cn/faculty-detail.php?id=91)
 
 主要研究方向
 ------
