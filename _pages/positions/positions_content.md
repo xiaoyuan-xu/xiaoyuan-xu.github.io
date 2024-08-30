@@ -4,8 +4,10 @@
 * Journal of Modern Power Systems and Clean Energy, Associate Editor (2018)
 * Frontiers in Energy, Guest Editor (2020)
 * IEEE Conference on Energy Internet and Energy System Integration, Panel Session Chair (2018-2021)
-* Journal of Modern Power Systems and Clean Energy, Outstanding reviewer
+
+* Journal of Modern Power Systems and Clean Energy, Outstanding reviewer (2023)
 * International Journal of Electrical Power & Energy Systems, Outstanding reviewer
+
 * 中国电工技术学会人工智能与电气应用专委会委员
 * 《上海交通大学学报》副编辑 (2021-)
 
