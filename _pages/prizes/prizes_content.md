@@ -17,11 +17,11 @@
 * 上海交通大学方太博约奖教金 (2018)
 
 * *《电力系统保护与控制》*2023年度优秀论文三等奖 (2024)
+  * 朱彦名, **徐潇源**, 严正, 陆建宇. 面向电力物联网的含可再生能源配电网运行展望[J]. *电力系统保护与控制*, 2022, 50(02): 176-187.
 * *《电力系统自动化》*2021年度优秀论文二等奖 (2022)
   * **徐潇源**, 王晗, 严正, 鲁卓欣, 康重庆, 谢开贵. 能源转型背景下电力系统不确定性及应对方法综述[J]. *电力系统自动化*, 2021, 45(16): 
 * *《上海交通大学学报》*2021年度有影响力论文 (2022)
   * 严正, 孔祥瑞, **徐潇源**, 谢伟. 微型同步相量测量单元在智能配电网运行状态估计中的应用[J]. *上海交通大学学报*, 2018, 52(10): 1195-1205.
-  * 朱彦名, **徐潇源**, 严正, 陆建宇. 面向电力物联网的含可再生能源配电网运行展望[J]. *电力系统保护与控制*, 2022, 50(02): 176-187.
 * *IEEE Conference on Energy Internet and Energy System Integration*, Best Paper Award (2021)
   * You G, Sun P, Zhu Y, Yan Z, **Xu X**, Wang H and Han P. Correlation-based Bad Data Detection of PMU Measurements for Improving Network Structure with High Penetration of Renewable Energy[C]//*2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)*. IEEE, 2021: 431-436.
 * *《电力系统自动化》*2020年度优秀论文二等奖 (2021)
