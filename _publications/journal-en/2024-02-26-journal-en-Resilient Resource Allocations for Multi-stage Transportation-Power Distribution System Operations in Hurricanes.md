@@ -9,7 +9,7 @@ paper_author: "Jiaqi Li, <b>Xiaoyuan Xu*</b>, Zheng Yan, Han Wang, Mohammad Shah
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10445529"
-citation: "J. Li et al., "Resilient Resource Allocations for Multi-Stage Transportation-Power Distribution System Operations in Hurricanes," <i>IEEE Transactions on Smart Grid</i>, vol. 15, no. 4, pp. 3994-4009, July 2024.'
+citation: 'J. Li et al., "Resilient Resource Allocations for Multi-Stage Transportation-Power Distribution System Operations in Hurricanes," <i>IEEE Transactions on Smart Grid</i>, vol. 15, no. 4, pp. 3994-4009, July 2024.'
 ---
 
 Abstract:

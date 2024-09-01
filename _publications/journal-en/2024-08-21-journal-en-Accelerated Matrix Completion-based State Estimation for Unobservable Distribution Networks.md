@@ -9,7 +9,7 @@ paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10643393"
-citation: "Y. Zhu, X. Xu and Z. Yan, "Accelerated Matrix Completion-Based State Estimation for Unobservable Distribution Networks," <i>IEEE Transactions on Industrial Informatics</i>, 2024. (Early Access)'
+citation:  'Y. Zhu, X. Xu and Z. Yan, "Accelerated Matrix Completion-Based State Estimation for Unobservable Distribution Networks," <i>IEEE Transactions on Industrial Informatics</i>, 2024. (Early Access)'
 ---
 
 Abstract:

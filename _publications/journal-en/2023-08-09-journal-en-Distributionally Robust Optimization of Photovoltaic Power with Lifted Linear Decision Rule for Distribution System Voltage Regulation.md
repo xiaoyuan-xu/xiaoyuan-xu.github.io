@@ -9,7 +9,7 @@ paper_author: "<b>Xiaoyuan Xu</b> Yuanhai Gao, Han Wang*, Zheng Yan, Mohammad Sh
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10214028"
-citation: "X. Xu, Y. Gao, H. Wang, Z. Yan, M. Shahidehpour and Z. Tan, "Distributionally Robust Optimization of Photovoltaic Power With Lifted Linear Decision Rule for Distribution System Voltage Regulation," <i>IEEE Transactions on Sustainable Energy</i>, vol. 15, no. 2, pp. 758-772, 2024.'
+citation: 'X. Xu, Y. Gao, H. Wang, Z. Yan, M. Shahidehpour and Z. Tan, "Distributionally Robust Optimization of Photovoltaic Power With Lifted Linear Decision Rule for Distribution System Voltage Regulation," <i>IEEE Transactions on Sustainable Energy</i>, vol. 15, no. 2, pp. 758-772, 2024.'
 ---
 
 Abstract:

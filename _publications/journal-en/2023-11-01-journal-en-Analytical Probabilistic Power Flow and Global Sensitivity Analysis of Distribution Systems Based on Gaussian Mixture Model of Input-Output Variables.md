@@ -9,7 +9,7 @@ paper_author: "Yuanhai Gao, <b>Xiaoyuan Xu*</b>, Zheng Yan, Han Wang, Jian Ping,
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10304309"
-citation: "Y. Gao et al., "Analytical Probabilistic Power Flow and Global Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables," <i>IEEE Transactions on Power Systems</i>, vol. 39, no. 3, pp. 5283-5296, May 2024.'
+citation: 'Y. Gao et al., "Analytical Probabilistic Power Flow and Global Sensitivity Analysis of Distribution Systems Based on Gaussian Mixture Model of Input-Output Variables," <i>IEEE Transactions on Power Systems</i>, vol. 39, no. 3, pp. 5283-5296, May 2024.'
 ---
 
 Abstract:

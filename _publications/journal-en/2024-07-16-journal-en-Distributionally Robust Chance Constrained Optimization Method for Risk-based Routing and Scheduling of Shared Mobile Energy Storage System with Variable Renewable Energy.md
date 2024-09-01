@@ -9,7 +9,7 @@ paper_author: "Zhuoxin Lu, <b>Xiaoyuan Xu*</b>, Zheng Yan, Mohammad Shahidehpour
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10599624"
-citation: "Z. Lu, X. Xu, Z. Yan, M. Shahidehpour, W. Sun and D. Han, "Distributionally Robust Chance Constrained Optimization Method for Risk-based Routing and Scheduling of Shared Mobile Energy Storage System with Variable Renewable Energy," <i>IEEE Transactions on Sustainable Energy</i>, 2024. (Early Access)'
+citation: 'Z. Lu, X. Xu, Z. Yan, M. Shahidehpour, W. Sun and D. Han, "Distributionally Robust Chance Constrained Optimization Method for Risk-based Routing and Scheduling of Shared Mobile Energy Storage System with Variable Renewable Energy," <i>IEEE Transactions on Sustainable Energy</i>, 2024. (Early Access)'
 ---
 
 Abstract:
