@@ -9,7 +9,7 @@ paper_author: "Chenyang Huang, Zheng Yan, Sijie Chen*, <b>Xiaoyuan Xu</b>, Su Ya
 corresponding: False
 remark: "(SCI)"
 paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-gtd.2018.6219"
-citation: 'C. Huang, Z. Yan, S. Chen, X. Xu, S. Yang, J. Li and H. Qu, "Portfolio management of battery storages in multiple electricity markets," <i>IET Generation, Transmission & Distribution</i>, vol. 12, no. 2, pp. 6004-6010, 2018.'
+citation: 'C. Huang, Z. Yan, S. Chen, X. Xu, S. Yang, J. Li and H. Qu, "Portfolio management of battery storages in multiple electricity markets," <i>IET Generation, Transmission & Distribution</i>, vol. 12, no. 22, pp. 6004-6010, Dec. 2018.'
 ---
 
 Abstract:

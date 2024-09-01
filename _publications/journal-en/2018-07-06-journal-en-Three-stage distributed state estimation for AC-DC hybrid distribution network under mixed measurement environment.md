@@ -1,15 +1,15 @@
 ---
-title: "Three-stage distributed state estimation for AC-DC hybrid distribution network under mixed measurement environment"
+title: "Three-Stage Distributed State Estimation for AC-DC Hybrid Distribution Network Under Mixed Measurement Environment"
 collection: publications
 type: "journal-en"
-permalink: /publication/2018-07-06-journal-en-Three-stage distributed state estimation for AC-DC hybrid distribution network under mixed measurement environment
+permalink: /publication/2018-07-06-journal-en-Three-Stage Distributed State Estimation for AC-DC Hybrid Distribution Network Under Mixed Measurement Environment
 date: 2018-07-06
 venue: "IEEE Access"
 paper_author: "Xiangrui Kong, Zheng Yan, Ruipeng Guo, <b>Xiaoyuan Xu*</b>, Chen Fang"
 corresponding: True
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/8405516"
-citation: 'X. Kong, Z. Yan, R. Guo, X. Xu and C. Fang, "Three-stage distributed state estimation for AC-DC hybrid distribution network under mixed measurement environment," <i>IEEE Access</i>, vol. 6, pp. 39027-39036, 2018.'
+citation: 'X. Kong, Z. Yan, R. Guo, X. Xu and C. Fang, "Three-Stage Distributed State Estimation for AC-DC Hybrid Distribution Network Under Mixed Measurement Environment," <i>IEEE Access</i>, vol. 6, pp. 39027-39036, 2018.'
 ---
 
 Abstract:

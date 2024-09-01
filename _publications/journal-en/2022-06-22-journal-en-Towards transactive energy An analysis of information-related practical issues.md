@@ -9,7 +9,7 @@ paper_author: "Yue Chen*, Yu Yang, <b>Xiaoyuan Xu</b>"
 corresponding: False
 remark: ""
 paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12057"
-citation: 'Y. Chen, Y. Yang and X. Xu, "Towards transactive energy An analysis of information-related practical issues" <i>Energy Conversion and Economics</i>, vol. 3, no. 3, pp. 112-121, 2022.'
+citation: 'Y. Chen, Y. Yang and X. Xu, "Towards transactive energy An analysis of information-related practical issues" <i>Energy Conversion and Economics</i>, vol. 3, no. 3, pp. 112-121, June 2022.'
 ---
 
 Abstract:

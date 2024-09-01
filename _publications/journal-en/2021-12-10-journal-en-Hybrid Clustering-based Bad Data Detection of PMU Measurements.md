@@ -1,15 +1,15 @@
 ---
-title: "Hybrid Clustering-based Bad Data Detection of PMU Measurements"
+title: "Hybrid clustering-based bad data detection of PMU measurements"
 collection: publications
 type: "journal-en"
-permalink: /publication/2021-12-10-journal-en-Hybrid Clustering-based Bad Data Detection of PMU Measurements
+permalink: /publication/2021-12-10-journal-en-Hybrid clustering-based bad data detection of PMU measurements
 date: 2021-12-10
-venue: "IET Energy Conversion and Economics"
+venue: "Energy Conversion and Economics"
 paper_author: "Yanming Zhu, <b>Xiaoyuan Xu*</b>, Zheng Yan"
 corresponding: True
 remark: ""
 paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12049"
-citation: 'Y. Zhu, X. Xu and Z. Yan, "Hybrid Clustering-based Bad Data Detection of PMU Measurements," <i>IET Energy Conversion and Economics</i>, vol. 2, no. 4, pp. 235-247, 2021.'
+citation: 'Y. Zhu, X. Xu and Z. Yan, "Hybrid clustering-based bad data detection of PMU measurements," <i>IET Energy Conversion and Economics</i>, vol. 2, no. 4, pp. 235-247,  Dec. 2021.'
 ---
 
 Abstract:

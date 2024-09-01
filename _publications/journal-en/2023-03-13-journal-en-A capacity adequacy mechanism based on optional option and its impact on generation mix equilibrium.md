@@ -1,15 +1,15 @@
 ---
-title: "A capacity adequacy mechanism based on optional option and its impact on generation mix equilibrium"
+title: "A Capacity Adequacy Mechanism Based on Optional Option and Its Impact on Generation Mix Equilibrium"
 collection: publications
 type: "journal-en"
-permalink: /publication/2023-03-13-journal-en-A capacity adequacy mechanism based on optional option and its impact on generation mix equilibrium
+permalink: /publication/2023-03-13-journal-en-A Capacity Adequacy Mechanism Based on Optional Option and Its Impact on Generation Mix Equilibrium
 date: 2023-03-13
 venue: "IEEE Transactions on Power Systems"
-paper_author: "Jingwei Hu, Sijie Chen, Zheng Yan, <b>Xiaoyuan Xu</b>, Ran Li, Yue Chen"
+paper_author: "Jingwei Hu, Sijie Chen*, Zheng Yan, <b>Xiaoyuan Xu</b>, Ran Li, Yue Chen"
 corresponding: False
 remark: "(SCI)"
 paperurl: "https://ieeexplore.ieee.org/document/10066516"
-citation: 'J. Hu, S. Chen, Z. Yan, X. Xu, R. Li and Y. Chen, "A capacity adequacy mechanism based on optional option and its impact on generation mix equilibrium," <i>IEEE Transactions on Power Systems</i>, 2023. (Early Access)'
+citation: 'J. Hu, S. Chen, Z. Yan, X. Xu, R. Li and Y. Chen, "A Capacity Adequacy Mechanism Based on Optional Option and Its Impact on Generation Mix Equilibrium," <i>IEEE Transactions on Power Systems</i>, vol. 39, no. 1, pp. 492-505, Jan. 2024. '
 ---
 
 Abstract:
