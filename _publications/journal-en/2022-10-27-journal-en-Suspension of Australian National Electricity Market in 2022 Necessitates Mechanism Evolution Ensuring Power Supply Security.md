@@ -2,8 +2,8 @@
 title: "Suspension of Australian National Electricity Market in 2022 Necessitates Mechanism Evolution Ensuring Power Supply Security"
 collection: publications
 type: "journal-en"
-permalink: /publication/2023-05-09-journal-en-Suspension of Australian National Electricity Market in 2022 Necessitates Mechanism Evolution Ensuring Power Supply Security
-date: 2023-05-09
+permalink: /publication/2022-10-27-journal-en-Suspension of Australian National Electricity Market in 2022 Necessitates Mechanism Evolution Ensuring Power Supply Security
+date: 2022-10-27
 venue: "Journal of Modern Power Systems and Clean Energy"
 paper_author: "Zhenfei Tan, Hua Geng, <b>Xiaoyuan Xu</b>, Sijie Chen, Zheng Yan"
 corresponding: False
