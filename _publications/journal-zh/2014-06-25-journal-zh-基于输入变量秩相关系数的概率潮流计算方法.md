@@ -7,9 +7,9 @@ date: 2014-06-25
 venue: "电力系统自动化"
 paper_author: "<b>徐潇源*</b>, 严正, 冯冬涵, 王毅, 曹路"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2014&filename=DLXT201412010&uniplatform=NZKPT&v=QiHeWbKxXDDmNjtoTq1CKxJjzRAux16v-N1QCxUdLsh9beMrWPO0oEsSTmt3BulH"
-citation: '徐潇源, 严正, 冯冬涵, 王毅, 曹路. 基于输入变量秩相关系数的概率潮流计算方法[J]. 电力系统自动化, 2014, 38(12): 54-61.'
+citation: '徐潇源, 严正, 冯冬涵, 王毅, 曹路. 基于输入变量秩相关系数的概率潮流计算方法[J]. <i>电力系统自动化</i>, 2014, 38(12): 54-61.'
 ---
 
 摘要：

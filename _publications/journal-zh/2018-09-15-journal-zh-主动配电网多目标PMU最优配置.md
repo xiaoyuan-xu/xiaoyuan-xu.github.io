@@ -2,14 +2,14 @@
 title: "主动配电网多目标PMU最优配置"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2019-03-01-journal-zh-主动配电网多目标PMU最优配置
-date: 2019-03-01
+permalink: /publication/2018-09-15-journal-zh-主动配电网多目标PMU最优配置
+date: 2018-09-15
 venue: "电网技术"
 paper_author: "王澍, 严正*, 孔祥瑞, 郭瑞鹏, <b>徐潇源</b>"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DWJS201903011&uniplatform=NZKPT&v=tbyfQklIGMagoTH8KsBtymiNKItA8H3gczZRk82waXjDe5vYq08BXd03N23JJYvX"
-citation: '王澍, 严正, 孔祥瑞, 郭瑞鹏, 徐潇源. 主动配电网多目标PMU最优配置[J]. 电网技术, 2019, 43(03): 91-98.'
+citation: '王澍, 严正, 孔祥瑞, 郭瑞鹏, 徐潇源. 主动配电网多目标PMU最优配置[J]. <i>电网技术</i>, 2019, 43(03): 91-98.'
 ---
 
 摘要：

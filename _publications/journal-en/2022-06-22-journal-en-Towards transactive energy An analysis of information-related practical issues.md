@@ -7,7 +7,7 @@ date: 2022-06-22
 venue: "Energy Conversion and Economics"
 paper_author: "Yue Chen*, Yu Yang, <b>Xiaoyuan Xu</b>"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12057"
 citation: 'Y. Chen, Y. Yang and X. Xu, "Towards transactive energy An analysis of information-related practical issues" <i>Energy Conversion and Economics</i>, vol. 3, no. 3, pp. 112-121, June 2022.'
 ---

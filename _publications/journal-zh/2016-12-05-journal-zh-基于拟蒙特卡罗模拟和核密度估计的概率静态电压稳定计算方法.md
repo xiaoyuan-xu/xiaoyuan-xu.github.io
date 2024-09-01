@@ -7,9 +7,9 @@ date: 2016-12-05
 venue: "电网技术"
 paper_author: "赵建伟, 李禹鹏, 杨增辉, 严正, <b>徐潇源*</b>, 冯楠，崔勇"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DWJS201612028&uniplatform=NZKPT&v=iF4v7EJWw3vEPAj8OFh1HsDS1jCuSilXGNf2sAwygG8ZcasOLZ394NpFBgDLYWo9"
-citation: '赵建伟, 李禹鹏, 杨增辉, 严正, 徐潇源, 冯楠, 崔勇. 基于拟蒙特卡罗模拟和核密度估计的概率静态电压稳定计算方法[J]. 电网技术, 2016, 40(12): 3833-3839.'
+citation: '赵建伟, 李禹鹏, 杨增辉, 严正, 徐潇源, 冯楠, 崔勇. 基于拟蒙特卡罗模拟和核密度估计的概率静态电压稳定计算方法[J]. <i>电网技术</i>, 2016, 40(12): 3833-3839.'
 ---
 
 摘要：

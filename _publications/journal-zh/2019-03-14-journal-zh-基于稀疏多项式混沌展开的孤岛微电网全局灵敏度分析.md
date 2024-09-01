@@ -2,14 +2,14 @@
 title: "基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2019-05-25-journal-zh-基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析
-date: 2019-05-25
+permalink: /publication/2019-03-14-journal-zh-基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析
+date: 2019-03-14
 venue: "电力系统自动化"
 paper_author: "王晗, 严正, <b>徐潇源*</b>, 何琨"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DLXT201910006&uniplatform=NZKPT&v=Xe2Oz5HuAVUL4ma-HCSu0TKYyA0QZp7AVtbgoh0zuEdn8YNWH8i2ytvr3K_sgJBL"
-citation: '王晗, 严正, 徐潇源, 何琨. 基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析[J]. 电力系统自动化, 2019, 43(10): 44-52.'
+citation: '王晗, 严正, 徐潇源, 何琨. 基于稀疏多项式混沌展开的孤岛微电网全局灵敏度分析[J]. <i>电力系统自动化</i>, 2019, 43(10): 44-52.'
 ---
 
 摘要：

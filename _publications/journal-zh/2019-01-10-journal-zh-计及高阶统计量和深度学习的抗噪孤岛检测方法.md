@@ -7,9 +7,9 @@ date: 2019-01-10
 venue: "电力系统自动化"
 paper_author: "孔祥瑞, 严正, <b>徐潇源*</b>, 谢伟"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=DLXT201901007&uniplatform=NZKPT&v=Xe2Oz5HuAVWOVUT_gWZrJ7F98pVOentazHjeVfLuOFuU56Gnh-qzgSfYmbCm8VkC"
-citation: '孔祥瑞, 严正, 徐潇源, 谢伟. 计及高阶统计量和深度学习的抗噪孤岛检测方法[J]. 电力系统自动化, 2019, 43(01): 58-64, 185.'
+citation: '孔祥瑞, 严正, 徐潇源, 谢伟. 计及高阶统计量和深度学习的抗噪孤岛检测方法[J]. <i>电力系统自动化</i>, 2019, 43(01): 58-64, 185.'
 ---
 
 摘要：

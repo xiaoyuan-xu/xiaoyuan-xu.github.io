@@ -7,9 +7,9 @@ date: 2018-10-28
 venue: "上海交通大学学报"
 paper_author: "严正*, 孔祥瑞, <b>徐潇源</b>, 谢伟"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SHJT201810008&uniplatform=NZKPT&v=C6ohogkXjtbe1JgipiQCj4qS_cia-H1uXwNPRD2WwSvuxp0T-sdHfFs21c1ig-we"
-citation: '严正, 孔祥瑞, 徐潇源, 谢伟. 微型同步相量测量单元在智能配电网运行状态估计中的应用[J]. 上海交通大学学报, 2018, 52(10): 1195-1205.'
+citation: '严正, 孔祥瑞, 徐潇源, 谢伟. 微型同步相量测量单元在智能配电网运行状态估计中的应用[J]. <i>上海交通大学学报</i>, 2018, 52(10): 1195-1205.'
 ---
 
 摘要：

@@ -2,14 +2,14 @@
 title: "能源转型背景下电力系统不确定性及应对方法综述"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2021-08-25-journal-zh-能源转型背景下电力系统不确定性及应对方法综述
-date: 2021-08-25
+permalink: /publication/2021-06-21-journal-zh-能源转型背景下电力系统不确定性及应对方法综述
+date: 2021-06-21
 venue: "电力系统自动化"
 paper_author: "<b>徐潇源</b>, 王晗, 严正*, 鲁卓欣, 康重庆, 谢开贵"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DLXT202116002&uniplatform=NZKPT&v=lzPv3VaLE-mH_W4bS0XaBd6P6GvcnLghdZfwlwPkYoEh_X8eAMU66jaszq1SH5PD"
-citation: '徐潇源, 王晗, 严正, 鲁卓欣, 康重庆, 谢开贵. 能源转型背景下电力系统不确定性及应对方法综述[J]. 电力系统自动化, 2021, 45(16): 2-13.'
+citation: '徐潇源, 王晗, 严正, 鲁卓欣, 康重庆, 谢开贵. 能源转型背景下电力系统不确定性及应对方法综述[J]. <i>电力系统自动化</i>, 2021, 45(16): 2-13.'
 ---
 
 摘要：

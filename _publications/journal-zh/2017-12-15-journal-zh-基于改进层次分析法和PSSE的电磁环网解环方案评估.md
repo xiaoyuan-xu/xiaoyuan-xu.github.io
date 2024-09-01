@@ -7,9 +7,9 @@ date: 2017-12-15
 venue: "电力系统及其自动化学报"
 paper_author: "<b>徐潇源*</b>, 赵建伟, 严正, 冯楠, 崔勇, 李建华"
 corresponding: True
-remark: ""
+remark: "(核心)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=DLZD201712014&uniplatform=NZKPT&v=jP3SwNBkKMF1OnYiHZ063dqrgDOVmQSji8lAfaM6ZDYRTqkxUyhGbc-DE-Bz5mN_"
-citation: '徐潇源, 赵建伟, 严正, 冯楠, 崔勇, 李建华. 基于改进层次分析法和PSS/E的电磁环网解环方案评估[J]. 电力系统及其自动化学报, 2017, 29(12): 76-82.'
+citation: '徐潇源, 赵建伟, 严正, 冯楠, 崔勇, 李建华. 基于改进层次分析法和PSS/E的电磁环网解环方案评估[J]. <i>电力系统及其自动化学报</i>, 2017, 29(12): 76-82.'
 ---
 
 摘要：

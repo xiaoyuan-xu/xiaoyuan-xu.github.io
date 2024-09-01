@@ -2,14 +2,14 @@
 title: "考虑公交车移动特性的电动公交车-充电站-配电网联合调度"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-12-25-journal-zh-考虑公交车移动特性的电动公交车-充电站-配电网联合调度
-date: 2022-12-25
+permalink: /publication/2022-05-19-journal-zh-考虑公交车移动特性的电动公交车-充电站-配电网联合调度
+date: 2022-05-19
 venue: "电力系统自动化"
 paper_author: "徐冉, <b>徐潇源*</b>, 王晗, 严正"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7ioT0BO4yQ4m_mOgeS2ml3UBliRfKRYir8aNLuvfyiHrMbItlTndTwzt19PJRsY0GS&uniplatform=NZKPT"
-citation: '徐冉, 徐潇源, 王晗, 严正. 考虑公交车移动特性的电动公交车-充电站-配电网联合调度[J]. 电力系统自动化, 2022, 46(24): 36-44.'
+citation: '徐冉, 徐潇源, 王晗, 严正. 考虑公交车移动特性的电动公交车-充电站-配电网联合调度[J]. <i>电力系统自动化</i>, 2022, 46(24): 36-44.'
 ---
 
 摘要：

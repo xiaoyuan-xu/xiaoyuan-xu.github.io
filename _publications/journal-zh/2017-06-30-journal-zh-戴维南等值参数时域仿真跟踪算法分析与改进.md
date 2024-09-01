@@ -7,9 +7,9 @@ date: 2017-06-30
 venue: "电力自动化设备"
 paper_author: "赵建伟, 严正, <b>徐潇源*</b>, 冯楠, 崔勇, 曹路, 李建华"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DLZS201707017&uniplatform=NZKPT&v=rVE4zNg7B25Agvh41Hho-XEbtGsGcRBlvETOw_-EhzmIYwLwZlf4NWxBL1-pK3aO"
-citation: '赵建伟, 严正, 徐潇源, 冯楠, 崔勇, 曹路, 李建华. 戴维南等值参数时域仿真跟踪算法分析与改进[J]. 电力自动化设备, 2017, 37(07): 115-122.'
+citation: '赵建伟, 严正, 徐潇源, 冯楠, 崔勇, 曹路, 李建华. 戴维南等值参数时域仿真跟踪算法分析与改进[J]. <i>电力自动化设备</i>, 2017, 37(07): 115-122.'
 ---
 
 摘要：

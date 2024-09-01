@@ -2,14 +2,14 @@
 title: "采用隐式Cholesky分解的大规模病态潮流计算"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2016-04-01-journal-zh-采用隐式Cholesky分解的大规模病态潮流计算
-date: 2016-04-01
+permalink: /publication/2015-12-30-journal-zh-采用隐式Cholesky分解的大规模病态潮流计算
+date: 2015-12-30
 venue: "电网技术"
 paper_author: "张道天*, 严正, <b>徐潇源</b>, 赵文恺, 曹路, 李建华"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=DWJS201604039&uniplatform=NZKPT&v=iF4v7EJWw3scUZRsXh020aUs0Q8vULAiNrj-vSuvmaDhbSVnXBg3dM_sch_wlAOj"
-citation: '张道天, 严正, 徐潇源, 赵文恺, 曹路, 李建华. 采用隐式Cholesky分解的大规模病态潮流计算[J]. 电网技术, 2016, 40(4): 1197-1203.'
+citation: '张道天, 严正, 徐潇源, 赵文恺, 曹路, 李建华. 采用隐式Cholesky分解的大规模病态潮流计算[J]. <i>电网技术</i>, 2016, 40(4): 1197-1203.'
 ---
 
 摘要：

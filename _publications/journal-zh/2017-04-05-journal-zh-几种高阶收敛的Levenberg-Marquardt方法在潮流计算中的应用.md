@@ -7,9 +7,9 @@ date: 2017-04-05
 venue: "电网技术"
 paper_author: "曹佳*, <b>徐潇源</b>, 严正, 李禹鹏, 杨增辉, 冯楠"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DWJS201704021&uniplatform=NZKPT&v=_rnILaSK9Q1CdybMEap1hsEfXfBwHDDt4-cJARywJXxAwm8RowKeLeXnR4lTa-dL"
-citation: '曹佳, 徐潇源, 严正, 李禹鹏, 杨增辉, 冯楠. 几种高阶收敛的Levenberg-Marquardt方法在潮流计算中的应用[J]. 电网技术, 2017, 41(04): 1181-1187.'
+citation: '曹佳, 徐潇源, 严正, 李禹鹏, 杨增辉, 冯楠. 几种高阶收敛的Levenberg-Marquardt方法在潮流计算中的应用[J]. <i>电网技术</i>, 2017, 41(04): 1181-1187.'
 ---
 
 摘要：

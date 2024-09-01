@@ -7,9 +7,9 @@ date: 2018-01-01
 venue: "电力建设"
 paper_author: "杨火明, <b>徐潇源*</b>, 严正"
 corresponding: True
-remark: ""
+remark: "(核心)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=DLJS201801005&uniplatform=NZKPT&v=4APB5UPwpo1uog4Te5yd2Po2bfYfbAqdMf893fxBxl_mM3ORJpMpZX_BZcNaY35L"
-citation: '杨火明, 徐潇源, 严正. 考虑配电网韧性的储能系统选址定容优化方法[J]. 电力建设, 2018, 39(01): 30-39.'
+citation: '杨火明, 徐潇源, 严正. 考虑配电网韧性的储能系统选址定容优化方法[J]. <i>电力建设</i>, 2018, 39(01): 30-39.'
 ---
 
 摘要：

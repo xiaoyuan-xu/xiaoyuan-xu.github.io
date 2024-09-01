@@ -2,14 +2,14 @@
 title: "基于宽度学习系统的光伏发电功率超短期预测"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2021-01-10-journal-zh-基于宽度学习系统的光伏发电功率超短期预测
-date: 2021-01-10
+permalink: /publication/2020-09-25-journal-zh-基于宽度学习系统的光伏发电功率超短期预测
+date: 2020-09-25
 venue: "电力系统自动化"
 paper_author: "周楠, <b>徐潇源*</b>, 严正, 陆建宇, 李亚平"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DLXT202101007&uniplatform=NZKPT&v=lzPv3VaLE-mBFEQki6m1raJoXJ9wmF0QjIH-LrTZuakVm_woN7QORlrUlys5uQdr"
-citation: '周楠, 徐潇源, 严正, 陆建宇, 李亚平. 基于宽度学习系统的光伏发电功率超短期预测[J]. 电力系统自动化, 2021, 45(01): 55-64.'
+citation: '周楠, 徐潇源, 严正, 陆建宇, 李亚平. 基于宽度学习系统的光伏发电功率超短期预测[J]. <i>电力系统自动化</i>, 2021, 45(01): 55-64.'
 ---
 
 摘要：

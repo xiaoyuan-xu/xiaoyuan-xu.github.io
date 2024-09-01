@@ -2,14 +2,14 @@
 title: "考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2022-10-20-journal-zh-考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法
-date: 2022-10-20
+permalink: /publication/2022-01-19-journal-zh-考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法
+date: 2022-01-19
 venue: "中国电机工程学报"
 paper_author: "方晓涛, 严正, 王晗, <b>徐潇源</b>"
 corresponding: False
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XS4i5CgPc2Va4fTspA2fFgp0qx63HTuCq-S7YcD5IjeR&uniplatform=NZKPT"
-citation: '方晓涛, 严正, 王晗, 徐潇源. 考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法[J]. 中国电机工程学报, 2022, 42(20): 7509-7524.'
+citation: '方晓涛, 严正, 王晗, 徐潇源. 考虑源–荷随机–模糊特征的配电网潮流不确定性量化方法[J]. <i>中国电机工程学报</i>, 2022, 42(20): 7509-7524.'
 ---
 
 摘要：

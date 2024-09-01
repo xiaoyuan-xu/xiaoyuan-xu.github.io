@@ -7,9 +7,9 @@ date: 2021-10-14
 venue: "电力自动化设备"
 paper_author: "陈亭轩, <b>徐潇源*</b>, 严正, 朱彦名"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=DLZS202110013&uniplatform=NZKPT&v=VaGYngl9_h9yB79NTYG40Th2KHjDFwVM2oQQ915rNfjx9XTjW-QYTtdjp-uvixYE"
-citation: '陈亭轩, 徐潇源, 严正, 朱彦名. 基于深度强化学习的光储充电站储能系统优化运行[J]. 电力自动化设备, 2021, 41(10): 90-98.'
+citation: '陈亭轩, 徐潇源, 严正, 朱彦名. 基于深度强化学习的光储充电站储能系统优化运行[J]. <i>电力自动化设备</i>, 2021, 41(10): 90-98.'
 ---
 
 摘要：

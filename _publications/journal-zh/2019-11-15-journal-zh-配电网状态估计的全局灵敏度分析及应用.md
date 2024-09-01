@@ -2,14 +2,14 @@
 title: "配电网状态估计的全局灵敏度分析及应用"
 collection: publications
 type: "journal-zh"
-permalink: /publication/2020-01-25-journal-zh-配电网状态估计的全局灵敏度分析及应用
-date: 2020-01-25
+permalink: /publication/2019-11-15-journal-zh-配电网状态估计的全局灵敏度分析及应用
+date: 2019-11-15
 venue: "电力系统自动化"
 paper_author: "孟雨田, 严正, <b>徐潇源*</b>, 方陈"
 corresponding: True
-remark: ""
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=DLXT202002014&uniplatform=NZKPT&v=F4nMUvjTbAs_PokcFi2V9sanXKs6EWsRuZKutbLubc-GFMCoRjMQVvE4TlFP4UBW"
-citation: '孟雨田, 严正, 徐潇源, 方陈. 配电网状态估计的全局灵敏度分析及应用[J]. 电力系统自动化, 2020, 44(02): 113-121.'
+citation: '孟雨田, 严正, 徐潇源, 方陈. 配电网状态估计的全局灵敏度分析及应用[J]. <i>电力系统自动化</i>, 2020, 44(02): 113-121.'
 ---
 
 摘要：

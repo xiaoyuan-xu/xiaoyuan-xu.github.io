@@ -7,9 +7,9 @@ date: 2023-06-09
 venue: "电网技术"
 paper_author: "王梦圆, <b>徐潇源*</b>, 严正"
 corresponding: True
-remark: "（录用）"
+remark: "(EI)"
 paperurl: "https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C45S0n9fL2suRadTyEVl2pW9UrhTDCdPD640BVEy1QDIKZYXOTpcTa4EcLxnZQjBeREpU1i_OE9s8Dz3WSOpWJld&uniplatform=NZKPT"
-citation: '王梦圆, 徐潇源, 严正. 适用小样本的并网光伏阵列故障诊断方法[J]. 电网技术, 2023. (录用)'
+citation: '王梦圆, 徐潇源, 严正. 适用小样本的并网光伏阵列故障诊断方法[J]. <i>电网技术</i>, 2024, 48(02): 587-598.'
 ---
 
 摘要：
