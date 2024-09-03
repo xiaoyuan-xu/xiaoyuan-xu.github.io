@@ -9,7 +9,7 @@
 
 
 * *Journal of Modern Power Systems and Clean Energy*, Outstanding reviewer (2023)
-* *International Journal of Electrical Power & Energy Systems*, Outstanding reviewer
+* *International Journal of Electrical Power & Energy Systems*, Outstanding reviewer (2022)
 * *《电力系统自动化》*优秀审稿专家 (2019-2023)
 * *《电网技术》*优秀审稿专家 (2022)
 
